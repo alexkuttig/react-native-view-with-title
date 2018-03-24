@@ -1,0 +1,15 @@
+{
+  "name": "react-native-view-with-title",
+  "main": "ViewWithTitle.js",
+  "private": false,
+  "peerDependencies": {
+    "react": ">=15.4.0",
+    "react-native": ">=v0.40.0"
+  },
+  "dependencies": {
+    "react-native-iphone-x-helper": ">=1.0.2"
+  },
+  "author": "Alexander Kuttig",
+  "license": "ISC",
+  "version": "1.0.1"
+}
